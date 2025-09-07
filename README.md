@@ -105,4 +105,4 @@ dotnet run
 
 ✨ "البرمجة هي فن حل المشكلات" - استمتع بالرحلة!
 </div>
-<h1 align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Programming+is+the+art;of+problem+solving👋;&size=35"> </a> 
+<h1 align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Programming+Is+My+life+..+..+👋;&size=35"> </a> 
