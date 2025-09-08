@@ -22,7 +22,7 @@
 
 | # | عنوان المسألة | المجلد | حالة الحل | مستوى الصعوبة |
 |---|----------------|---------|-----------|----------------|
-| 1 | [التحقق من العدد التام](01-Perfect-Number/) | `01-Perfect-Number` | ✅ مكتمل | ⭐ |
+| 1 | [التحقق من العدد التام](5-3-Perfect-Number/) | `01-Perfect-Number` | ✅ مكتمل | ⭐ |
 | 2 | [عنوان المسألة الثانية](02-Question-Title/) | `02-Question-Title` | ❌ قيد التطوير | ⭐⭐ |
 | 3 | [عنوان المسألة الثالثة](03-Question-Title/) | `03-Question-Title` | ❌ قيد التطوير | ⭐⭐⭐ |
 | 4 | [عنوان المسألة الرابعة](04-Question-Title/) | `04-Question-Title` | ❌ قيد التطوير | ⭐⭐ |
@@ -105,4 +105,4 @@ dotnet run
 
 ✨ "البرمجة هي فن حل المشكلات" - استمتع بالرحلة!
 </div>
-<h1 align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Programming+is+the+art;of+problem+solving👋;&size=35"> </a> 
+<h1 align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Programming+Is+My+life+..+..+👋;&size=35"> </a> 
